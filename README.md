@@ -4,7 +4,7 @@ In this project, I am trying to develop a game using React Native and Expo. The 
 The purpose of creating this game is to get more familiar with React Native. To put into practice the knowledge that I gained from reading the documentation and what I know about JavaScript.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/paVr3v7Bo2k)
 
 # Development Environment
 
